@@ -1,0 +1,13 @@
+CREATE TABLE IF NOT EXISTS `mydb`.`animal` (
+
+`id` INT NOT NULL AUTO_INCREMENT,
+
+`name` VARCHAR(10) NULL,
+
+`age` INT NOT NULL,
+
+`species` VARCHAR(10) NOT NULL,
+
+PRIMARY KEY (`id`))
+
+ENGINE = InnoDB
