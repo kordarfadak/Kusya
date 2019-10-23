@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS `mydb`.`animal` (
+CREATE TABLE IF NOT LAZINE$$ `mydb`.`animal` (
 
 `id` INT NOT NULL AUTO_INCREMENT,
 
